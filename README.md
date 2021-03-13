@@ -60,6 +60,7 @@
 
  - [个人博客前台](https://github.com/starryskystar/buck-blog-react)：基于react在云服务器搭建的博客前台
  - [博客后端服务](http://github.com/yourname/projectname)：基于nodejs\express\mongodb,搭建的博客后台服务
+ - [在线多人聊天](https://github.com/starryskystar/campus-interview)：基于vue搭建的一个聊天桌面应用
 
 
 # 技能清单
