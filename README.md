@@ -29,10 +29,15 @@
 独立日管家客成系统主要是用于独立日管家对 A 端Leads 简历信息进行整合，操作。包括面试操作的甬道流程。保险购买，商家信息查询和岗位职位推荐、匹配。
 在本项目职责：
 1.前端开发环境搭建优化配置、部分功能技术选型，本项目技术栈基于React、tookit、Typescript开发,基于ant design，代码版本管理工具 git，仓库gitlab，接口规范 Yapi、swagger、数据埋点基于     Geogle analyze，并使用 Geogle tag对线上项目进行部分代码的插入修改。
+
 2.负责前端共通组件的编写，例如Storybook共通组件、mock数据定义、gitbook 进行文档展示。
+
 3.搭建verdaccio私库对共通组件的存放。                                                                
+
 4.开发完成后自测例如使用 jest-test，使用 prettier、eslint对个人代码自测。
+
 5.参与搭建nodejs BFF中间层的搭建
+
 6.使用jenkins配合测试和运营对上线的项目进行自测以及修改出现的Bug，保证上线代码性能最优，业务交互流畅。
 
 
